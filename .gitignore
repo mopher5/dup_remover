@@ -1,0 +1,15 @@
+# Ignore log files
+file_dir
+!file_dir/.gitkeep
+.python-version
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
