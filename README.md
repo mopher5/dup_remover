@@ -4,23 +4,15 @@
 
 ## 前提条件
 
-このスクリプトを実行するには、以下のパッケージが必要です：
-
+このスクリプトを実行するには、以下が必要です：
 - Python 3.x
-- Pillow
-
-必要なパッケージは以下のコマンドでインストールできます：
-
-```sh
-pip install Pillow
-```
 
 ## 使い方
 
 1. スクリプトをダウンロードまたはクローンします：
 
 ```sh
-git clone https://github.com/yourusername/dup_img.git
+git clone https://github.com/mopher5/dup_remover.git
 cd dup_img
 ```
 
